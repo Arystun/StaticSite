@@ -1,2 +1,3 @@
-# static-website
-Static Site project Visual Studio 2022
+# static-website Static Site project Visual Studio 2022
+
+Шаблон проекта статического вебсайта
